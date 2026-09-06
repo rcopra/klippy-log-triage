@@ -1,0 +1,3 @@
+Stats 100.0: gcodein=0 mcu_awake=0.010 mcu_task_avg=0.000001
+mcu 'mcu': Timeout with bytes_invalid=0 bytes_write=123
+!! Timer too close
