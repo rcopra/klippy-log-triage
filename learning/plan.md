@@ -21,9 +21,9 @@ A service that accepts a Klipper log — pasted, uploaded, or posted by a bot-st
 
 ## 00 · A repo, a runtime, and a pile of real logs
 The project exists on disk and in Git, runs on a reproducible Python environment, and holds your saved Klipper logs as the corpus everything else will be tested against.
-- [ ] Set up the project directory and first commit ← you are here
+- [x] Set up the project directory and first commit
   You can navigate the repo from the terminal, and `git log` shows an initial commit containing your folder layout and a README stating what the service does.
-- [ ] Establish a branch-and-push workflow
+- [ ] Establish a branch-and-push workflow ← you are here
   Work happens on branches, diffs are read before staging, and the repo is pushed to a remote you can clone onto another machine.
 - [ ] Stand up a reproducible Python environment
   A fresh clone plus one install command gives a working interpreter and pinned dependencies; you can open a REPL and load a saved log file.
